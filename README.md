@@ -11,6 +11,17 @@ A to-do app is a digital tool that helps you organize and manage your tasks, pro
 |🔸|ARIHO GERALD   	 |22/U/21723/PS	   |2200721723  |
 |🔸|SSEMAGANDA GEORGE|	   22/U/3847/EVE| 2200703847 |
 
+### ⚡ PROJECT SUMMARY _ OUR UNDERSTANDING
+Based on the given requirements, the project is to develop a to-do application using the Django framework for the back-end and JavaScript, HTML, and CSS for the front-end. The application should allow users to create and manage daily or weekly lists of tasks, mark tasks as completed or skipped, and set reminders for specific tasks via email notifications. The application should also allow users to delete tasks and automatically remove tasks older than seven days.
+
+In terms of user stories, the project can be broken down into several stories including user account creation, task creation and management, task completion and skipping, task reminders, task deletion, and task auto-removal. Each story can be further broken down into implementation tasks such as creating database models, building user interfaces, implementing email notifications, and configuring deployment settings.
+
+To implement this project, an agile software development framework such as Extreme Programming (XP) will be used. The development team will work collaboratively to prioritize user stories, estimate and plan implementation tasks, conduct iterative development, and continuously test and deploy the application.
+
+The development process will be divided into sprints, each lasting approximately one to two weeks, with each sprint focusing on delivering a set of user stories. The project plan will be updated after each sprint to reflect progress made, issues encountered, and any changes to the scope or timeline.
+
+Overall, the project aims to deliver a user-friendly and functional to-do application that meets the given requirements and adheres to best practices for software development.
+
 ### ⚡ DEFINED APP PARAMETERS
 In this project, we shall create a To Do App with the following parameters as set by Dr. Peter W in project submission.<br>
 - [ ] *The app should allow the user to create and manage a list of tasks.*<br>
@@ -24,6 +35,7 @@ In this project, we shall create a To Do App with the following parameters as se
 - [ ] *Tasks that are incomplete but whose time has passed should be marked as "skipped".*<br>
 - [ ] *The user should be able to delete tasks.*<br>
 - [ ] *The app should automatically delete all tasks that are older than seven days.*<br>
+- [ ] *The app should use either PostgreSQL or MySQL as a database
 
 ### ⚡ TECH & COSTRAINTS
 The To Do App is going to have or use the following technologies and constraints:
@@ -39,15 +51,65 @@ The To Do App is going to have or use the following technologies and constraints
 - The app should be easy to use and intuitive for the end-user.
 - Use of Restful API and methadology.
 - Front end and backend should be called by the above methadology (Loosely coupled).
+- Use of a database (PostgreSQL or MySQL)
 - The code for the app should be well-organized, efficient, and maintainable.
-
-### ⚡ PROJECT SUMMARY _ OUR UNDERSTANDING
 
 
 ### ⚡ USER STORIES
+User stories are a way of defining user requirements in the form of a short, simple statement of what a user wants to accomplish. Based on the requirements mentioned in the text, some possible user stories for a to-do app are:
+
+🔸 As a user, they would want to see a landing page about the app with the ability to signup or signin. <br>
+**Tasks:**
+- Design a beautiful UI/UX with a good landing page.
+- Ability to have account creation and sign in buttons or validation forms
+- Validate input from the users and account signups
+- Send account confirmations
+
+
+🔸 As a user, I want to be able to create a list of tasks that I need to complete. <br>
+**Tasks:**
+- Design the user interface to allow users to create a new task.
+- Implement a view to add a new task to the database.
+- Write a form validation function to validate user input.
+
+
+🔸 As a user, I want to be able to mark a task as completed.<br>
+**Tasks:**
+- Add a "completed" field to the task model.
+- Design the user interface to allow users to mark a task as completed.
+- Implement a view to update the completed field of a task in the database.
+
+
+As a user, I want to be able to specify the expected date and time of each task.
+Tasks:
+Add "date" and "time" fields to the task model.
+Design the user interface to allow users to enter the date and time of a task.
+Implement a view to add the date and time fields to a task in the database.
+As a user, I want to be reminded of a task when it's due.
+Tasks:
+Write a function to check if any tasks are due and send a reminder email.
+Add a "remind" field to the task model.
+Design the user interface to allow users to set a reminder for a task.
+Implement a view to add the remind field to a task in the database.
+As a user, I want to be able to delete a task.
+Tasks:
+Design the user interface to allow users to delete a task.
+Implement a view to delete a task from the database.
+As a user, I want tasks that are incomplete but whose time has passed to be marked as skipped.
+Tasks:
+Write a function to check if any tasks have passed their due date and mark them as skipped in the database.
+Based on these user stories, the order in which the stories will be implemented can be as follows:
+
+As a user, I want to be able to create a list of tasks that I need to complete.
+As a user, I want to be able to mark a task as completed.
+As a user, I want to be able to specify the expected date and time of each task.
+As a user, I want to be reminded of a task when it's due.
+As a user, I want to be able to delete a task.
+As a user, I want tasks that are incomplete but whose time has passed to be marked as skipped.
 
 
 ### ⚡ PERSONAL GIT ACCOUNTS
+Here are the indiviual Git Accounts for every person that worked on the project.
 
 |🔸| ACOUNT HOLDER'S NAME |GIT USER NAME |
 | ------ |------ | ------ | 
