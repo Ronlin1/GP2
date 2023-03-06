@@ -84,10 +84,10 @@ The port number might be different if you have specified a different port in the
 ### ⚡ MORE INFORMATION
 This is the current information that is due to change about this repo but more information can be got from the Group Leader: **Eddy on 0705044294**
 
-## 🙆‍♀😍 Team Members
-|Ronnie A<br/>([@Ronnie](https://github.com/Ronlin1))|Mariyah<br/>([@Mariyah](https://github.com/MariyahLuz))|Paul M<br/>([@Paul](https://github.com/paulgrammer))|Emilly<br/>([@Emilly](https://github.com/maqamylee0))|
+## 🙆‍♀😍 TEAM MEMBERS & PROJECT ROLES
+|Ronnie A<br/>([@Ronnie](https://github.com/Ronlin1))|Edward<br/>([@Edward](https://github.com/Ronlin1))|Gerald M<br/>([@Gerald](https://github.com/Ronlin1))|George<br/>([@George](https://github.com/Ronlin1))|
 |:----------:|:----------:|:----------:|:----------:|
-|Py Dev<br/>Acting TL|Developer<br/>UI/UX|JS Dev<br/> Systems Mgr |Project Manager<br/>Dev-Ops|
-|![](https://github.com/Ronlin1.png)|![](https://github.com/MariyahLuz.png)|![](https://github.com/Ronlin1/home/blob/main/paul.jpg)|![](https://github.com/Ronlin1/home/blob/main/Emilly.jpg)|
+|FRONT DEV<br/>DEV|Developer<br/>UI/UX|FRONT DEV<br/> Systems Mgr |Project Manager<br/>Dev-Ops|
+|![](https://github.com/Ronlin1.png)|![](https://github.com/Ronlin1.png)|![](https://github.com/Ronlin1.png)|![](https://github.com/Ronlin1.png)|
 
 <br/><br/>
