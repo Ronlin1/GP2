@@ -1,4 +1,4 @@
-# GP2 TODO APP TEST
+# GP2 TODO APP TEST --> MIGHT USE THIS FINALLY
 ### ⚡ TODO APP
 A to-do app is a digital tool that helps you organize and manage your tasks, projects, and daily responsibilities. It allows you to create and prioritize a list of things you need to do, set reminders, and track your progress. You can also use a to-do app to assign tasks to others, share lists, and collaborate with team members. Overall, a to-do app is a helpful tool for individuals and teams to stay organized and productive.
 
