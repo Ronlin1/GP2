@@ -126,6 +126,8 @@ The following are the deadlines for the different delivereables that will be upd
 - [ ] Deliverable 2: 26th April 2023 <br>
 - [ ] Deliverable 3: 31st May 2023 <br>
 
+on it
+
 
 ### ⚡ ONLINE DEMO
 ~~Please visit this for online demo. (url incoming)~~
